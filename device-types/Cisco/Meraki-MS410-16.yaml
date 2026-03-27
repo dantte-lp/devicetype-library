@@ -1,12 +1,13 @@
 ---
 manufacturer: Cisco
 model: Meraki MS410-16
+slug: cisco-meraki-ms410-16
 part_number: ms410-16
 u_height: 1.0
 is_full_depth: false
 airflow: front-to-rear
 comments: '[MS410 Overview and Specifications ](https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS410_Overview_and_Specifications)'
-weight: 11.8
+weight: 11.75
 weight_unit: lb
 interfaces:
   - name: '1'

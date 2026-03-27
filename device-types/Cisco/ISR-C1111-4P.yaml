@@ -2,10 +2,11 @@
 manufacturer: Cisco
 model: ISR C1111-4P
 part_number: C1111-4P
+slug: cisco-isr-c1111-4p
 u_height: 1
 is_full_depth: false
 is_powered: true
-weight: 1.98
+weight: 2.0
 weight_unit: kg
 airflow: passive
 interfaces:

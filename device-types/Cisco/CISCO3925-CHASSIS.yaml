@@ -1,6 +1,7 @@
 ---
 manufacturer: Cisco
 model: 3925-CHASSIS
+slug: cisco-cisco3925-chassis
 part_number: CISCO3925-CHASSIS
 u_height: 3
 is_full_depth: true

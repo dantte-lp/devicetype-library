@@ -1,11 +1,12 @@
 ---
 manufacturer: Cisco
 model: Meraki MX67C
+slug: cisco-meraki-mx67c
 part_number: MX67C
 u_height: 1
 is_full_depth: false
 airflow: passive
-weight: 1.87
+weight: 1.75
 weight_unit: lb
 comments: '[Meraki MX67 Datasheet](https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX67_and_MX68_Datasheet)'
 power-ports:

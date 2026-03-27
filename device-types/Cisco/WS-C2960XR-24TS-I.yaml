@@ -1,10 +1,11 @@
 ---
 manufacturer: Cisco
 model: Catalyst 2960XR-24TS-I
+slug: cisco-ws-c2960xr-24ts-i
 part_number: WS-C2960XR-24TS-I
 is_full_depth: false
 u_height: 1
-weight: 13.01
+weight: 13.0
 weight_unit: lb
 front_image: true
 rear_image: true

@@ -1,11 +1,12 @@
 ---
 manufacturer: Cisco
 model: Meraki MR18
-part_number: MR18
+slug: cisco-meraki-mr18
+part_number: MR18-HW
 u_height: 0.0
 is_full_depth: false
 airflow: passive
-weight: 25.7
+weight: 25.75
 weight_unit: oz
 comments: "- Datasheet: [https://meraki.cisco.com/lib/pdf/meraki_datasheet_MR18.pdf](https://meraki.cisco.com/lib/pdf/meraki_datasheet_MR18.pdf)\r \n- IEEE\
   \ Standards: 802.11a, 802.11b, 802.11g, 802.11n"
