@@ -1,9 +1,10 @@
 ---
 manufacturer: Arista
 model: DCS-7280QR-C72-R
+slug: arista-dcs-7280qr-c72-r
 part_number: DCS-7280QR-C72-R
 u_height: 2
-weight: 47.3
+weight: 47.25
 weight_unit: lb
 airflow: rear-to-front
 is_full_depth: false

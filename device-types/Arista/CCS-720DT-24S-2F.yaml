@@ -1,9 +1,10 @@
 ---
 manufacturer: Arista
 model: CCS-720DT-24S-2F
+slug: arista-ccs-720dt-24s-2f
 part_number: CCS-720DT-24S-2F
 u_height: 1
-weight: 9.6
+weight: 9.5
 weight_unit: lb
 airflow: front-to-rear
 is_full_depth: false

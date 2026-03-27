@@ -1,9 +1,10 @@
 ---
 manufacturer: Arista
 model: CCS-720XP-24Y6-F
+slug: arista-ccs-720xp-24y6-f
 part_number: CCS-720XP-24Y6-F
 u_height: 1
-weight: 13.3
+weight: 13.25
 weight_unit: lb
 airflow: front-to-rear
 is_full_depth: false
